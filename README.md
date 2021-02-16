@@ -30,3 +30,4 @@ You have been working really hard at school and you're thinking about taking a s
 
 2. Write the python code for a program based on the above scenario.  Include the proper output statements that indicate what you will be doing this summer
 
+ 
